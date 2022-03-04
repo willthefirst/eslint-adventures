@@ -1,1 +1,3 @@
-console.log("yo");
+function s () {
+    return 'yo';
+}
